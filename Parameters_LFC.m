@@ -38,10 +38,7 @@ waiting_time=100*Tc;
 %%
 bar_p_ref=0.3;
 bar_p_mech=0.0017;
-Q=
-R=
-P=
-%（43）对应集合该怎么给呢？
+
 %%
 x=[x1';x2';x3'];
 dx=zeros(3,4);
